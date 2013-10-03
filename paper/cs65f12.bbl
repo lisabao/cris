@@ -1,0 +1,23 @@
+\begin{thebibliography}{}
+
+\bibitem[\protect\citename{Ginsberg}2011]{ginsberg2011}
+M.L. Ginsberg.
+\newblock 2011.
+\newblock Dr. fill: crosswords and an implemented solver for singly weighted
+  csps.
+\newblock {\em Journal of Artificial Intelligence Research}, 42(1):851--886.
+
+\bibitem[\protect\citename{Gori \bgroup et al.\egroup }2006]{gori2006}
+M.~Gori, M.~Ernandes, and G.~Angelini.
+\newblock 2006.
+\newblock Cracking crosswords: the computer challenge.
+\newblock {\em Reasoning, Action and Interaction in AI Theories and Systems},
+  pages 265--286.
+
+\bibitem[\protect\citename{Littman \bgroup et al.\egroup }2002]{littman2002}
+M.L. Littman, G.A. Keim, and N.~Shazeer.
+\newblock 2002.
+\newblock A probabilistic approach to solving crossword puzzles.
+\newblock {\em Artificial Intelligence}, 134(1):23--55.
+
+\end{thebibliography}
